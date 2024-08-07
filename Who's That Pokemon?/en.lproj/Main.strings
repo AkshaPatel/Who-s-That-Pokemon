@@ -1,0 +1,96 @@
+
+/* Class = "UIButton"; configuration.title = "Bulbasaur"; ObjectID = "2Mq-u2-V97"; */
+"2Mq-u2-V97.configuration.title" = "Bulbasaur";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Mq-u2-V97"; */
+"2Mq-u2-V97.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Final Score: 50"; ObjectID = "6OR-qm-cAE"; */
+"6OR-qm-cAE.text" = "Final Score: 50";
+
+/* Class = "UIButton"; configuration.title = "Squirtle"; ObjectID = "8s7-qZ-GMW"; */
+"8s7-qZ-GMW.configuration.title" = "Squirtle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8s7-qZ-GMW"; */
+"8s7-qZ-GMW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Height:"; ObjectID = "9gx-n5-jHx"; */
+"9gx-n5-jHx.text" = "Height:";
+
+/* Class = "UIButton"; configuration.title = "Start Over"; ObjectID = "CAY-MX-DNX"; */
+"CAY-MX-DNX.configuration.title" = "Start Over";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CAY-MX-DNX"; */
+"CAY-MX-DNX.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Pokédex"; ObjectID = "DXj-dk-Qpj"; */
+"DXj-dk-Qpj.configuration.title" = "Pokédex";
+
+/* Class = "UILabel"; text = "High Score: 100"; ObjectID = "E0k-SD-XW2"; */
+"E0k-SD-XW2.text" = "High Score: 100";
+
+/* Class = "UILabel"; text = "Who's That Pokémon?"; ObjectID = "E77-Qm-c1v"; */
+"E77-Qm-c1v.text" = "Who's That Pokémon?";
+
+/* Class = "UILabel"; text = "Score: 10"; ObjectID = "ET7-qd-0TJ"; */
+"ET7-qd-0TJ.text" = "Score: 10";
+
+/* Class = "UILabel"; text = "Who's That Pokémon?"; ObjectID = "F6E-Rr-fei"; */
+"F6E-Rr-fei.text" = "Who's That Pokémon?";
+
+/* Class = "UILabel"; text = "Pokémon:"; ObjectID = "HGO-Yt-i4R"; */
+"HGO-Yt-i4R.text" = "Pokémon:";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "I7E-XH-trX"; */
+"I7E-XH-trX.text" = "Text";
+
+/* Class = "UIButton"; configuration.title = "Pikachu"; ObjectID = "JgZ-vr-r4A"; */
+"JgZ-vr-r4A.configuration.title" = "Pikachu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JgZ-vr-r4A"; */
+"JgZ-vr-r4A.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Main Menu"; ObjectID = "UNk-fI-NGp"; */
+"UNk-fI-NGp.configuration.title" = "Main Menu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UNk-fI-NGp"; */
+"UNk-fI-NGp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Game Over!"; ObjectID = "UPi-5q-EhT"; */
+"UPi-5q-EhT.text" = "Game Over!";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "Uyx-5j-OSz"; */
+"Uyx-5j-OSz.text" = "Type:";
+
+/* Class = "UILabel"; text = "Pokédex"; ObjectID = "X5S-B6-Vfk"; */
+"X5S-B6-Vfk.text" = "Pokédex";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "aNL-nM-BWg"; */
+"aNL-nM-BWg.text" = "Text";
+
+/* Class = "UILabel"; text = "Evolutions:"; ObjectID = "dpg-gg-ddc"; */
+"dpg-gg-ddc.text" = "Evolutions:";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "fIb-Rt-ThC"; */
+"fIb-Rt-ThC.text" = "Text";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "gmt-8s-dtw"; */
+"gmt-8s-dtw.text" = "Text";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "h0H-vo-JKh"; */
+"h0H-vo-JKh.text" = "Weight:";
+
+/* Class = "UIButton"; configuration.title = "Start Game"; ObjectID = "hAM-0d-Ift"; */
+"hAM-0d-Ift.configuration.title" = "Start Game";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hAM-0d-Ift"; */
+"hAM-0d-Ift.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Charmander"; ObjectID = "kV6-HL-XUS"; */
+"kV6-HL-XUS.configuration.title" = "Charmander";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kV6-HL-XUS"; */
+"kV6-HL-XUS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "qG8-Of-blN"; */
+"qG8-Of-blN.text" = "Text";
